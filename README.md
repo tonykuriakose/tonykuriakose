@@ -1,9 +1,6 @@
-<h1 align="center">
-  <img src="your-logo.png" alt="Your Logo" width="200">
-  <br>
-  Welcome to My GitHub Profile!
-  <br>
-</h1>
+
+  
+<h1>Hi , I am Tony Kuriakose</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Awesome-brightgreen.svg" alt="Project Status: Awesome">
@@ -33,18 +30,17 @@ Hi there! I'm Tony Kuriakose, a passionate developer from India. I love explorin
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?tonykuriakose=tonykuriakose&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 📝 Get in Touch
 
 - Email: t4tonykuriakose@gmail.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/tony_official/)
+- Twitter: @t4tonykuriakose(https://twitter.com/t4tonykuriakose)
+- LinkedIn: Tony Kuriakose(https://www.linkedin.com/in/tony_official/)
 
 ## 🚧 Projects
 
-[![Project 1](https://img.shields.io/badge/Project%201-Description-blueviolet)](https://github.com/yourusername/project1)
-[![Project 2](https://img.shields.io/badge/Project%202-Description-blueviolet)](https://github.com/yourusername/project2)
+[![Project 1](https://img.shields.io/badge/Project%201-Description-blueviolet)](https://github.com/tonykuriakose/TrendSetter.git)
 
 ## 🎉 Thanks for visiting!
 
