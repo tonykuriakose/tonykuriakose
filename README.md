@@ -18,7 +18,7 @@ Hi there! I'm Tony Kuriakose, a passionate developer from India. I love explorin
 
 ## 🌱 Currently Learning
 
-- Exploring React & Type Script
+- Exploring React & Type Scrip
 
 ## 💼 Work Experience
 
@@ -27,7 +27,7 @@ Hi there! I'm Tony Kuriakose, a passionate developer from India. I love explorin
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonykuriakose&show_icons=true&count_private=true&hide=prs&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=tonykuriakose&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 📝 Get in Touch
 
@@ -37,7 +37,7 @@ Hi there! I'm Tony Kuriakose, a passionate developer from India. I love explorin
 
 ## 🚧 Projects
 
-[![Project 1](https://img.shields.io/badge/Project%201-Description-blueviolet)](https://github.com/tonykuriakose/TrendSetter.git)
+[![Node Ecommerce Project](https://img.shields.io/badge/Project%201-Description-blueviolet)](https://github.com/tonykuriakose/TrendSetter.git)
 
 ## 🎉 Thanks for visiting!
 
