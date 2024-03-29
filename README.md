@@ -6,7 +6,6 @@ Hi there! I'm Tony Kuriakose, a passionate developer from India. I love explorin
 
 ## 🔧 Technologies & Tools
 
-=======
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
