@@ -55,7 +55,7 @@ Hi there! I'm Tony Kuriakose, a passionate developer from India. I love explorin
 
 ## 🚧 Projects
 
-[![Node Ecommerce Project](https://img.shields.io/badge/Project%201-Description-blueviolet)](https://github.com/tonykuriakose/TrendSetter.git)
+[![Node Ecommerce Project](https://img.shields.io/badge/Project%201-Description-blueviolet)](https://github.com/tonykuriakose/eCommerce.git)
 
 ## 🎉 Thanks for visiting!
 
