@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Hi there! I'm Tony Kuriakose, a passionate developer from India. I love exploring new technologies.
+Hi there! I'm Tony Kuriakose, a passionate web developer from India. I love exploring new technologies.
 
 ## 🔧 Technologies & Tools
 
@@ -34,30 +34,18 @@ Hi there! I'm Tony Kuriakose, a passionate developer from India. I love explorin
 
 >
 
-## 🌱 Currently Learning
-
-- Exploring React & Type Scrip
-
 ## 💼 Work Experience
 
-- Software Engineer at BrotoType
-- Freelance Developer
+- Web Developer Intern at BrotoType
 
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=tonykuriakose&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 📝 Get in Touch
-
+- Mobile: +91 9961618585
 - Email: t4tonykuriakose@gmail.com
 - Twitter: @t4tonykuriakose(https://twitter.com/t4tonykuriakose)
 - LinkedIn: Tony Kuriakose(https://www.linkedin.com/in/tony_official/)
 
-## 🚧 Projects
-
-[![Node Ecommerce Project](https://img.shields.io/badge/Project%201-Description-blueviolet)](https://github.com/tonykuriakose/eCommerce.git)
-
-## 🎉 Thanks for visiting!
-
-Feel free to connect with me and explore my projects. Happy coding!
 
