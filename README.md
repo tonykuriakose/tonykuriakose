@@ -1,7 +1,4 @@
 
-
-## 🚀 About Me
-
 Hi there! I'm Tony Kuriakose, a passionate web developer from India. I love exploring new technologies.
 
 ## 🔧 Technologies & Tools
