@@ -20,4 +20,4 @@
 - Mobile: +91 9961618585
 - Email: t4tonykuriakose@gmail.com
 - Twitter: [@t4tony_techy](https://twitter.com/t4tony_techy)
-- LinkedIn: [@tony_official](https://www.linkedin.com/in/tony_official/)
+- LinkedIn: [@tonyofficial](https://www.linkedin.com/in/tonyofficial/)
