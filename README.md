@@ -86,12 +86,7 @@
     </p>  
 </p>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt=""><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=nahyan0077&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahyan0077&theme=dark&hide_border=true" alt="">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonykuriakose&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt=""><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=tonykuriakose&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonykuriakose&theme=dark&hide_border=true" alt="">
 </div>
-###
-
-<img src="https://raw.githubusercontent.com/nahyan0077/nahyan0077/output/snake.svg" alt="Snake animation" />
-
-###
