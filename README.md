@@ -13,18 +13,6 @@
     <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" style="width: 300px;margin-right: 60px" alt="">
     <img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 300px;" alt="">
 </div>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/tonyofficial/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nahyan9094/" target="_blank" height="30" width="40" />
-    </a>
-    <a href="https://www.instagram.com/tony_techy/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nhyn____/" target="_blank" height="30" width="40" />
-    </a>
-    <a href="https://leetcode.com/u/tonykuriakose/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nahyanmp4/" target="_blank" height="30" width="40" />
-    </a>
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
