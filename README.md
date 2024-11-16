@@ -1,12 +1,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="width: 100%;">
 
 <h1 align="center">Hi 👋, I'm Tony Kuriakose</h1>
-<h3 align="center">Self-taught Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <div align="center">  
-        🌱 I’m currently learning Angular <br>
+        🌱 I’m currently learning Micro Services <br>
         💬 Ask me about MEARN, I will try to answer <br>
-        📫 How to reach me: email: t4tonykuriakose@gmail.com <br>
 </div>
 
 <div align="center">
