@@ -1,13 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="width: 100%;">
 
-<h1 align="center">Hi 👋, I'm Tony Kuriakose</h1>
-<h3 align="center">Full Stack Developer</h3>
-
-<div align="center">  
-        🌱 I’m currently learning Micro Services <br>
-        💬 Ask me about MEARN, I will try to answer <br>
-</div>
-
+<h2 align="center">Hi 👋, I'm Tony Kuriakose</h2>
+<h3 align="center">MERN Stack Developer</h3>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" style="width: 300px;margin-right: 60px" alt="">
     <img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 300px;" alt="">
@@ -16,7 +10,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <p align="center"> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" /> </a> 
+      
         <span style="margin-right: 20px;"></span>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> </a> 
         <span style="margin-right: 20px;"></span>
