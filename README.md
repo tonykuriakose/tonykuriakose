@@ -1,14 +1,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="width: 100%;">
 
 <h2 align="center">Hi 👋, I'm Tony Kuriakose</h2>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">a MERN Stack Developer</h3>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" style="width: 300px;margin-right: 60px" alt="">
     <img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 300px;" alt="">
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
     <p align="center"> 
         <!-- Top Row -->
@@ -48,11 +48,7 @@
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
             <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" /> 
         </a>         
-        <span style="margin-right: 20px;"></span>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-        </a>
-        <span style="margin-right: 20px;"></span>       
+        <span style="margin-right: 20px;"></span>     
         <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
             <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /> 
         </a> 
