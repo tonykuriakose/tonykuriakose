@@ -45,11 +45,6 @@
             <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
         </a>
         <span style="margin-right: 20px;"></span>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> 
-        </a> 
-        <br><br>
-        <!-- Third Row -->
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
             <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" /> 
         </a>         
@@ -57,11 +52,7 @@
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
             <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
         </a>
-        <span style="margin-right: 20px;"></span>  
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        </a>
-        <span style="margin-right: 20px;"></span>        
+        <span style="margin-right: 20px;"></span>       
         <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
             <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /> 
         </a> 
