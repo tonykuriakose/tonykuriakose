@@ -11,8 +11,6 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <p align="center"> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" /> </a> 
-        <span style="margin-right: 20px;"></span>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> </a> 
         <span style="margin-right: 20px;"></span>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
