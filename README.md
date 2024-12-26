@@ -26,6 +26,10 @@
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
             <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
         </a>
+        <span style="margin-right: 20px;"></span>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
+        </a>
         <br><br>
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
             <img src="https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
