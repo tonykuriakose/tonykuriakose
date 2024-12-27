@@ -1,7 +1,3 @@
-Share
-
-
-You said:
 <h2 align="center">Hi 👋 I'm Tony Kuriakose. a MERN Stack Developer</h2>
 
 <div align="center">
