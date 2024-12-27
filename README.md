@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Tony Kuriakose. a MERN Stack Developer</h2>
+<h2 align="center">Hi 👋 I'm Tony Kuriakose, a MERN Stack Developer</h2>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 300px;" alt="">
@@ -31,6 +31,11 @@
             <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
         </a>
         <br><br>
+        <!-- Added Socket.io before Express -->
+        <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
+            <img src="https://img.shields.io/badge/Socket.io-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white" alt="socket.io" /> 
+        </a>
+        <span style="margin-right: 20px;"></span>
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
             <img src="https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
         </a>
@@ -61,4 +66,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonykuriakose&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt=""><br>
     <img src="https://github-readme-stats.vercel.app/api?username=tonykuriakose&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonykuriakose&theme=dark&hide_border=true" alt="">
-</div> add socket io 
+</div>
