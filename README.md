@@ -1,3 +1,7 @@
+Share
+
+
+You said:
 <h2 align="center">Hi 👋 I'm Tony Kuriakose. a MERN Stack Developer</h2>
 
 <div align="center">
@@ -31,39 +35,34 @@
             <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
         </a>
         <br><br>
-        <a href="https://socket.io/" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/socket.io-%233C1E1E.svg?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
-        </a>
-         <span style="margin-right: 20px;"></span>
-
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
             <img src="https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
         </a>
         <span style="margin-right: 20px;"></span>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
-        </a>
-        <span style="margin-right: 20px;"></span>
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> 
+        </a> 
+        <span style="margin-right: 20px;"></span>      
         <a href="#" target="_blank" rel="noreferrer">
             <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
         </a>
         <span style="margin-right: 20px;"></span>
-        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
-        </a>
+        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+            <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" /> 
+        </a>         
+        <span style="margin-right: 20px;"></span>     
+        <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
+            <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /> 
+        </a> 
         <span style="margin-right: 20px;"></span>
-        <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
-        </a>
-        <span style="margin-right: 20px;"></span>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-        </a>
-    </p>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+            <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> 
+        </a> 
+    </p>  
 </p>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonykuriakose&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt=""><br>
     <img src="https://github-readme-stats.vercel.app/api?username=tonykuriakose&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonykuriakose&theme=dark&hide_border=true" alt="">
-</div>
+</div> add socket io 
