@@ -23,10 +23,6 @@
             <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
         </a>
         <span style="margin-right: 20px;"></span>
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
-        </a>
-        <span style="margin-right: 20px;"></span>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
             <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
         </a>
@@ -54,10 +50,6 @@
         <span style="margin-right: 20px;"></span>     
         <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
             <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /> 
-        </a> 
-        <span style="margin-right: 20px;"></span>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> 
         </a> 
     </p>  
 </p>
