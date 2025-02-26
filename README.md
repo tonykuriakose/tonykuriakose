@@ -1,61 +1,74 @@
-<h2 align="center">Hi 👋 I'm Tony Kuriakose, a MERN Stack Developer</h2>
+### **Hi 👋 I'm Tony Kuriakose, a MERN Stack Developer**
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 300px;" alt="">
 </div>
 
-<h3 align="center">Languages and Tools</h3>
+### **Languages and Tools**  
+
 <p align="center">
-    <p align="center"> 
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> 
-        </a>
-        <span style="margin-right: 20px;"></span>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-        </a>
-        <span style="margin-right: 20px;"></span>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> 
-        </a>
-        <span style="margin-right: 20px;"></span>
-        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-        </a>
-        <span style="margin-right: 20px;"></span>
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
-        </a>
-        <br><br>
-        <!-- Added Socket.io before Express -->
-        <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/Socket.io-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white" alt="socket.io" /> 
-        </a>
-        <span style="margin-right: 20px;"></span>
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-        </a>
-        <span style="margin-right: 20px;"></span>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> 
-        </a> 
-        <span style="margin-right: 20px;"></span>      
-        <a href="#" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
-        </a>
-        <span style="margin-right: 20px;"></span>
-        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" /> 
-        </a>         
-        <span style="margin-right: 20px;"></span>     
-        <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-            <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /> 
-        </a> 
-    </p>  
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+    </a>
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+    </a>
+    <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </a>
+    <a href="https://socket.io/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Socket.io-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    </a>
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    </a>
+    <a href="https://microservices.io/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Microservices-%2320232a.svg?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" />
+    </a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    </a>
 </p>
 
+---
+
+### **GitHub Stats**  
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonykuriakose&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt=""><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonykuriakose&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="">
+    <br>
     <img src="https://github-readme-stats.vercel.app/api?username=tonykuriakose&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonykuriakose&theme=dark&hide_border=true" alt="">
 </div>
+
+---
+
+### **Connect with Me**  
+<p align="center">
+    <a href="https://www.linkedin.com/in/tonykuriakose" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/tonykuriakose" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://twitter.com/tonykuriakose" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+</p>
