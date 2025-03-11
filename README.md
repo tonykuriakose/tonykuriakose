@@ -1,11 +1,9 @@
-### **Hi 👋 I'm Tony , a Full Stack DevOps Enthusiast**
-
+### **Hi 👋 I'm John Smith, a Full Stack DevOps Enthusiast**
 <div align="center">
     <img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 300px;" alt="">
 </div>
 
 ### **Languages and Tools**  
-
 <p align="center">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -52,17 +50,17 @@
 
 ### **GitHub Stats**  
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonykuriakose&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsmith&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=tonykuriakose&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonykuriakose&theme=dark&hide_border=true" alt="">
+    <img src="https://github-readme-stats.vercel.app/api?username=johnsmith&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnsmith&theme=dark&hide_border=true" alt="">
 </div>
 
 ---
 
 ### **Connect with Me**  
 <p align="center">
-    <a href="https://www.linkedin.com/in/tonykuriakose" target="_blank">
+    <a href="https://www.linkedin.com/in/johnsmith" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
