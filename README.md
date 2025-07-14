@@ -4,8 +4,6 @@
 </div>
 
 ### **Languages and Tools**  
-
-#### **Frontend Technologies**
 <p align="center">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -25,10 +23,6 @@
     <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
     </a>
-</p>
-
-#### **Backend Technologies**
-<p align="center">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     </a>
@@ -41,10 +35,6 @@
     <a href="https://webrtc.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
     </a>
-</p>
-
-#### **Programming Languages**
-<p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     </a>
@@ -54,10 +44,6 @@
     <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
     </a>
-</p>
-
-#### **Databases & ORMs**
-<p align="center">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     </a>
@@ -73,10 +59,6 @@
     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
     </a>
-</p>
-
-#### **DevOps & Deployment**
-<p align="center">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     </a>
@@ -89,10 +71,6 @@
     <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
     </a>
-</p>
-
-#### **Architecture & Concepts**
-<p align="center">
     <a href="https://microservices.io/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Microservices-%2320232a.svg?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" />
     </a>
@@ -102,10 +80,6 @@
     <a href="https://en.wikipedia.org/wiki/SOLID" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/SOLID-4ECDC4?style=for-the-badge&logo=solid&logoColor=white" alt="SOLID Principles" />
     </a>
-</p>
-
-#### **APIs & Integrations**
-<p align="center">
     <a href="https://ai.google.dev/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
     </a>
@@ -115,10 +89,6 @@
     <a href="https://razorpay.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
     </a>
-</p>
-
-#### **Developer Tools**
-<p align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     </a>
@@ -151,4 +121,3 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
-
