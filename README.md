@@ -92,19 +92,11 @@
 
 <br />
 
-## 💻 LeetCode
+## 💻 LeetCode Stats
 
-<p align="center">
-  <a href="https://leetcode.com/tonykuriakose" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=1a1a1a&color=%2300b8a3&label=Easy&query=easySolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftonykuriakose&logo=leetcode&logoColor=yellow" alt="Easy"/>
-  </a>
-  <a href="https://leetcode.com/tonykuriakose" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=1a1a1a&color=%23ffc01e&label=Medium&query=mediumSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftonykuriakose&logo=leetcode&logoColor=yellow" alt="Medium"/>
-  </a>
-  <a href="https://leetcode.com/tonykuriakose" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=1a1a1a&color=%23ef4743&label=Hard&query=hardSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftonykuriakose&logo=leetcode&logoColor=yellow" alt="Hard"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://leetcode.card.workers.dev/tonykuriakose?theme=dark&font=baloo&extension=null" alt="LeetCode Stats"/>
+</div>
 
 
 ---
