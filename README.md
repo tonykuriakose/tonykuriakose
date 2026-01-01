@@ -95,7 +95,7 @@
 ## 💻 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/tonykuriakose?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcode-stats-six.vercel.app/?username=tonykuriakose&theme=dark" alt="LeetCode Stats"/>
 </div>
 
 
