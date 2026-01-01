@@ -95,7 +95,7 @@
 ## 💻 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/tonykuriakose?theme=dark&font=baloo&extension=null" alt="LeetCode Stats"/>
+  <img src="https://leetcode.card.workers.dev/tonykuriakose?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats"/>
 </div>
 
 
