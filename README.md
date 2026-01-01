@@ -133,27 +133,4 @@
 
 <div align="center">
 
-### 💭 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonykuriakose/tonykuriakose/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tonykuriakose/tonykuriakose/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tonykuriakose/tonykuriakose/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### 📈 Profile Views
-<img src="https://komarev.com/ghpvc/?username=tonykuriakose&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-### 💬 Let's Connect and Build Something Amazing Together!
-
-<p>
-  <i>Open to collaborating on innovative projects and exploring new technologies!</i>
-</p>
-
 </div>
